@@ -11,9 +11,6 @@
 </p>
 
 <p align="center">
-        <img src="https://cloud.githubusercontent.com/assets/1595227/24761426/f80dbc64-1af3-11e7-9c99-bca3dd836a8e.png"/>
-</p>
-<p align="center">
         <a href="https://material.uplabs.com/posts/fancyshowcaseview">@MaterialUp Best of the Day</a>
 </p>
 
